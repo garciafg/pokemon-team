@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d97812cb.js",
+    "static/media/bg-circle.png": "/static/media/bg-circle.e4fab848adcadc0e28d9.png",
+    "static/media/success.png": "/static/media/success.71c68362b44ff9ce75c3.png",
+    "static/media/danger.png": "/static/media/danger.29e3f128ff1079f96da4.png",
+    "index.html": "/index.html",
+    "main.d97812cb.js.map": "/static/js/main.d97812cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d97812cb.js"
+  ]
+}
