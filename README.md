@@ -8,4 +8,4 @@ O desafio foi feito com React no front-end e nodejs com mysql no back-end. A pro
  - [Code Challenge](https://github.com/ibti-solutions/code-challenge)
 
 ### 🔗 Link da aplicação online
- - [Pokémon Team Builder](https://github.com/ibti-solutions/code-challenge)
+ - [Pokémon Team Builder](http://devdofuturo.tk)
